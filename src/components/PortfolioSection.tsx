@@ -1,10 +1,11 @@
 import { useState } from "react";
 import { X } from "lucide-react";
-import portfolioRestaurant from "@/assets/portfolio-beauty-CJHwUiZQ.jpg";
-import portfolioFitness from "@/assets/portfolio-fitness.jpg";
-import portfolioLegal from "@/assets/restaurante web.jpg";
+import restaurate_1 from "@/assets/Diseño web la paella.jpg";
+import portfolioFitness from "@/assets/menu restaura34.jpg";
+import portfolioBeauty from  "@/assets/portfolio-beauty-CJHwUiZQ.jpg";
+
+import portfolioLegal from "@/assets/portfolio-legal.jpg";
 import portfolioTech from "@/assets/portfolio-tech.jpg";
-import portfolioBeauty from "@/assets/portfolio-beauty.jpg";
 import portfolioEcommerce from "@/assets/portfolio-ecommerce.jpg";
 import {
   Dialog,
@@ -14,7 +15,7 @@ import {
 
 const projects = [
   {
-    image: portfolioRestaurant,
+    image: restaurate_1,
     color: "from-orange-500/20 to-red-500/20",
   },
   {
