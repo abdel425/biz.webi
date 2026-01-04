@@ -1,10 +1,10 @@
 import { useState } from "react";
 import { X } from "lucide-react";
 import portfolioRestaurant from "@/assets/portfolio-restaurant.jpg";
-import portfolioFitness from "@/assets/restaurante web.jpg";
-import portfolioLegal from "@/assets/menu restaura34.jpg";
+import portfolioFitness from "@/assets/restauranteweb.jpg";
+import portfolioLegal from "@/assets/menu_restaura34.jpg";
 import portfolioTech from "@/assets/portfolio-beauty-CJHwUiZQ.jpg";
-import portfolioBeauty from "@/assets/Diseño web la paella.jpg";
+import portfolioBeauty from "@/assets/Diseño_web_la_paella.jpg";
 import portfolioEcommerce from "@/assets/portfolio-ecommerce.jpg";
 import {
   Dialog,
