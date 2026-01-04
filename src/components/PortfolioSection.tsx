@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { X } from "lucide-react";
-import portfolioRestaurant from "@/assets/portfolio-restaurant.jpg";
+import portfolioRestaurant from "@/assets/portfolio-beauty-CJHwUiZQ.jpg";
 import portfolioFitness from "@/assets/portfolio-fitness.jpg";
 import portfolioLegal from "@/assets/portfolio-legal.jpg";
 import portfolioTech from "@/assets/portfolio-tech.jpg";
