@@ -6,6 +6,7 @@ import portfolioBeauty from  "@/assets/portfolio-beauty-CJHwUiZQ.jpg";
 
 import portfolioLegal from "@/assets/portfolio-legal.jpg";
 import portfolioTech from "@/assets/portfolio-tech.jpg";
+
 import portfolioEcommerce from "@/assets/portfolio-ecommerce.jpg";
 import {
   Dialog,
