@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { X } from "lucide-react";
-import restaurate_1 from "@/assets/Diseño web la paella.jpg";
+import restaurate from "@/assets/Diseño web la paella.jpg";
 import portfolioFitness from "@/assets/menu restaura34.jpg";
 import portfolioBeauty from  "@/assets/portfolio-beauty-CJHwUiZQ.jpg";
 
@@ -16,7 +16,7 @@ import {
 
 const projects = [
   {
-    image: restaurate_1,
+    image: restaurate,
     color: "from-orange-500/20 to-red-500/20",
   },
   {
