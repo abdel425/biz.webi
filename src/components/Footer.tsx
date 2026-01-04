@@ -9,7 +9,7 @@ const Footer = () => {
             <div className="w-10 h-10 rounded-xl bg-gradient-to-br from-primary to-secondary flex items-center justify-center">
               <Code2 className="w-5 h-5 text-primary-foreground" />
             </div>
-            <span className="font-display font-semibold text-xl">WebCraft</span>
+            <span className="font-display font-semibold text-xl">BIZWEB</span>
           </div>
 
           <div className="flex flex-wrap justify-center gap-6 text-sm text-muted-foreground">
@@ -20,9 +20,9 @@ const Footer = () => {
           </div>
 
           <div className="flex items-center gap-4 text-sm text-muted-foreground">
-            <a href="mailto:hola@webcraft.es" className="flex items-center gap-2 hover:text-primary transition-colors">
+            <a href="mailto:contacto@bizweb.es" className="flex items-center gap-2 hover:text-primary transition-colors">
               <Mail className="w-4 h-4" />
-              hola@webcraft.es
+              contacto@bizweb.es
             </a>
           </div>
         </div>
