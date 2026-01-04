@@ -3,7 +3,7 @@ import { X } from "lucide-react";
 import portfolioRestaurant from "@/assets/portfolio-restaurant.jpg";
 import portfolioFitness from "@/assets/restaurante web.jpg";
 import portfolioLegal from "@/assets/menu restaura34.jpg";
-import portfolioTech from "@/assets/portfolio-tech.jpg";
+import portfolioTech from "@/assets/portfolio-beauty-CJHwUiZQ.jpg";
 import portfolioBeauty from "@/assets/Diseño web la paella.jpg";
 import portfolioEcommerce from "@/assets/portfolio-ecommerce.jpg";
 import {
