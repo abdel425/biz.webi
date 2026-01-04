@@ -45,23 +45,23 @@ const ContactSection = () => {
               <h3 className="text-2xl font-bold font-display mb-6">Información de contacto</h3>
               
               <div className="space-y-6">
-                <a href="mailto:info@webcraft.com" className="flex items-center gap-4 text-muted-foreground hover:text-foreground transition-colors">
+                <a href="mailto:contacto@bizweb.es" className="flex items-center gap-4 text-muted-foreground hover:text-foreground transition-colors">
                   <div className="w-12 h-12 rounded-xl bg-primary/10 flex items-center justify-center">
                     <Mail className="w-5 h-5 text-primary" />
                   </div>
                   <div>
                     <p className="text-sm text-muted-foreground">Email</p>
-                    <p className="font-medium text-foreground">info@webcraft.com</p>
+                    <p className="font-medium text-foreground">contacto@bizweb.es</p>
                   </div>
                 </a>
 
-                <a href="tel:+34600000000" className="flex items-center gap-4 text-muted-foreground hover:text-foreground transition-colors">
+                <a href="tel:+34632814512" className="flex items-center gap-4 text-muted-foreground hover:text-foreground transition-colors">
                   <div className="w-12 h-12 rounded-xl bg-secondary/10 flex items-center justify-center">
                     <Phone className="w-5 h-5 text-secondary" />
                   </div>
                   <div>
                     <p className="text-sm text-muted-foreground">Teléfono</p>
-                    <p className="font-medium text-foreground">+34 600 000 000</p>
+                    <p className="font-medium text-foreground">+34 632 814 512</p>
                   </div>
                 </a>
 
