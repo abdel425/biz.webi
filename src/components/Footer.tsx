@@ -28,7 +28,7 @@ const Footer = () => {
         </div>
 
         <div className="mt-8 pt-8 border-t border-border/30 text-center text-sm text-muted-foreground">
-          <p>© 2024 WebCraft. Todos los derechos reservados.</p>
+          <p>© 2024 Biz Web. Todos los derechos reservados.</p>
         </div>
       </div>
     </footer>
